@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+### My name is Michael Carlson
 <!--
 **mrcarlson3/mrcarlson3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> I'm a current student at the University of Virginia School of Data Science. At UVA, I'm working on my double major in Data Science and Cognitive Science. 
+> 📚 I'm a current student at the University of Virginia School of Data Science.
+> 👾 At UVA, I'm working on my bachelor's degree in Data Science and Cognitive Science.
+> 🧬 Along with my double major, I'm exploring a minor in Health, Ethics and Society!
+> 📣 Outside of school I'm a cheerleader for the UVA Cheerleading team!
+> 🎿 As well as the treasurer for the Virginia Alpine Ski and Snowboarding Team
+
+##### My academic interests include cloud computing, data architecture, neural networks, and data engineering as well as looking how these pieces of data science influence bioethics and the greater society.
